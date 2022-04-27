@@ -1,0 +1,9 @@
+1.layout: Package that contains a Screen that contains multi Screens.
+2.models: Package that contains a Models like models in userModel.
+3.modules: Package that contains a (packages) many Modules like login_Screen...ect
+4.shard: Package that contains 1.package's name components       1. dart file (components)
+                                                                 2. dart file (constants)
+                               2. package' name network contains 1.Package local
+                                                                 2.Package remote
+                               3. package's name styles          1.dart file (colors)
+                                                                 2.dart file (styles)
