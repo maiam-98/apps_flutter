@@ -108,6 +108,7 @@ class MyApp extends StatelessWidget {
   //hi
 
   //hi every body
+  //new
   final bool? isDark;
   final Widget? startWidget;
   MyApp({this.isDark, this.startWidget});
